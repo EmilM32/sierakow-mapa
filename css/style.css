@@ -1,0 +1,43 @@
+#map {
+  height: 600px;
+}
+#info {
+  text-align: center;
+}
+#panel {
+  background-color: #E9ECEF!important;
+  border-radius: 10px;
+}
+.legenda_box {
+  width: 20px;
+  height: 20px;
+  float: right;
+  border-radius: 7px;
+}
+.sierakowColor {
+  background-color: var(--sierakow_granice);
+}
+.kolejColor {
+  background-color:var(--kolej);
+}
+.drogi_glowneColor {
+  background-color: var(--drogi_glowne);
+}
+.drogi_92Color {
+  background-color: var(--drogi_92);
+}
+.rzeki_aColor {
+  background-color: var(--rzeki_a);
+}
+.rzeki_lColor {
+  background-color: var(--rzeki_l);
+}
+.jeziora1Color {
+  background-color: var(--jeziora-arh_0-100);
+}
+.jeziora2Color {
+  background-color: var(--jeziora-arh_100-200);
+}
+.jeziora3Color {
+  background-color: var(--jeziora-arh_200-300);
+}
